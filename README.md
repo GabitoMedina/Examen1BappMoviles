@@ -7,3 +7,4 @@ esta aplicacion permite registrarse e iniciar sesion
 unan vez logeado ingresa a la pantalla dash en la que aparecen los usuarios conectados 
 en esta pantalla inicial puede compartir archivos, ubicacion y mensagear**
 ![imagen](https://user-images.githubusercontent.com/20603961/127414891-bafa5ca2-1199-450e-a8b8-edb50ecbfd6c.png)
+toda la aplicacion se la pudo implementar en colaboracion del Ing. Juan Pablo Zaldumbide Msc.
